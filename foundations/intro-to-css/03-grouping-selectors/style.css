@@ -1,0 +1,16 @@
+
+.clickClass, .nonclickClass {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+
+.clickClass {
+    background-color: black;
+    color: white;
+}
+
+.nonclickClass {
+    background-color: yellow;
+}
+
